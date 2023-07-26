@@ -1,6 +1,6 @@
 {
   "name": "json-path-diff",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JSON diff cli",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
     "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   },
   "bin": {
-    "diffj": "index.js"
+    "json-path-diff": "index.js"
   },
   "repository": {
     "type": "git",
