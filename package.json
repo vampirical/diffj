@@ -1,7 +1,7 @@
 {
-  "name": "json-diff-cli",
+  "name": "diffj",
   "version": "0.5.1",
-  "description": "json-diff-cli",
+  "description": "JSON diff cli",
   "main": "index.js",
   "scripts": {
     "test": "npm run lint",
@@ -9,7 +9,7 @@
     "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   },
   "bin": {
-    "json-diff": "index.js"
+    "diffj": "index.js"
   },
   "repository": {
     "type": "git",
@@ -36,7 +36,7 @@
     "csvtojson": "^1.1.5",
     "easy-table": "^1.1.0",
     "json-diff-core": "^0.1.8",
-    "yargs": "^8.0.1"
+    "yargs": "^17.7.2"
   },
   "release": {
     "verifyConditions": "condition-circle"
