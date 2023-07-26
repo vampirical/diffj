@@ -1,6 +1,6 @@
 {
   "name": "diffj",
-  "version": "0.5.1",
+  "version": "1.0.0",
   "description": "JSON diff cli",
   "main": "index.js",
   "scripts": {
