@@ -1,5 +1,5 @@
 {
-  "name": "diffj",
+  "name": "json-path-diff",
   "version": "1.0.0",
   "description": "JSON diff cli",
   "main": "index.js",
